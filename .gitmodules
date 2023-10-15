@@ -1,0 +1,6 @@
+[submodule "drivent-backend"]
+	path = drivent-backend
+	url = https://github.com/Caio-Coldebella/drivent-backend.git
+[submodule "drivent-frontend"]
+	path = drivent-frontend
+	url = https://github.com/Caio-Coldebella/drivent-frontend.git
